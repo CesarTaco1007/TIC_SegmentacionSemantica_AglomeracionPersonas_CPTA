@@ -8,7 +8,7 @@ Implementación de un modelo de aprendizaje profundo para la detección de perso
 [Archivo H5 del modelo](https://drive.google.com/file/d/15CiJDDlmSMKgcfZXgSZXAoMzRluiMUx6/view?usp=sharing)
 
 ## Resultados
-### Iamgenes/Entrenamiento 
+### Imagenes/Entrenamiento 
 ![Image text](https://github.com/CesarTaco1007/TIC_SegmentacionSemantica_AglomeracionPersonas_CPTA/blob/main/train_1.jpg)
 ![Image text](https://github.com/CesarTaco1007/TIC_SegmentacionSemantica_AglomeracionPersonas_CPTA/blob/main/train_2.jpg)
 
