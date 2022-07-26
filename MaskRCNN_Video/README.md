@@ -28,7 +28,7 @@ Prepararemos un entorno con python 3.7.7, Tensorflow 2.1.0 y keras 2.3.1
     -   min_confidence = 0.86 # Nivel mínimo de confianza para aceptar un hallazgo como positivo
     -   camera = cv2.VideoCapture("video.mp4") # Si desean correr un video cargandolo desde su PC
     
-    $ python personaVideoDetection.py
+    $ python personaVideoDistancia.py
      
 # Agradecimientos
 
