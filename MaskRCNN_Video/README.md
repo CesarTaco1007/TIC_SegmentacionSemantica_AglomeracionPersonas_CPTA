@@ -35,6 +35,6 @@ Prepararemos un entorno con python 3.7.7, Tensorflow 2.1.0 y keras 2.3.1
     Matterport, Inc
     https://github.com/matterport
 
-    Adam Kelly
-    https://github.com/akTwelve
+    Make Sense AI
+    https://github.com/SkalskiP/make-sense
 
