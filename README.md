@@ -16,5 +16,5 @@ Implementación de un modelo de aprendizaje profundo para la detección de perso
 ![Image text](https://github.com/CesarTaco1007/TIC_SegmentacionSemantica_AglomeracionPersonas_CPTA/blob/main/test_1.png)
 
 ### Videos
-[Resultado 1]()
-[Resultado 2]()
+[Resultado 1](https://youtu.be/y39gL0RWYtQ)
+[Resultado 2](https://youtu.be/eMcebxnjVKg)
